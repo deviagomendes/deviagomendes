@@ -26,7 +26,7 @@ Sou **Engenheiro de Software** apaixonado por tecnologia, automação e soluçõ
 - [gymbeat-sync](https://github.com/deviagomendes/gymbeat-sync): Sistema de sincronização de dados para academias e dispositivos fitness.
 - [recipe-app-api](https://github.com/deviagomendes/recipe-app-api): API RESTful para gerenciamento de receitas culinárias.
 - [chick-counter-hq](https://github.com/deviagomendes/chick-counter-hq): Contador inteligente para automação de produção avícola.
-- [Doma_Smart_Control_One](https://github.com/deviagomendes/Doma_Smart_Control_One): Controle e automação residencial via IoT.
+- [Doma_Smart_Control_One](https://github.com/deviagomendes/Doma_Smart_Control_One): Controle e automação industrial via IoT.
 
 ## 📫 Como me encontrar
 
